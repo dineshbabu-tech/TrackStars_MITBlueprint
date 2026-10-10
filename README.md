@@ -1,5 +1,5 @@
 # Track Stars 🏃‍♂️💨🚇
-**Winner: General Track 1st Place @ MIT Blueprint 2026**
+[**Winner: General Track 1st Place @ MIT Blueprint 2026**](https://plume.hackmit.org/project/wnhoa-uhegd-whkug-rzpwl)
 
 ![Banner](https://plume.hackmit.org/api/v3/projects/pr-NuMlydzUH3O6ZCO/image?t=1773272315105)
 
